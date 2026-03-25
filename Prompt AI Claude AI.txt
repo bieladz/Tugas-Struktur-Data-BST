@@ -1,0 +1,5 @@
+Tools AI: Claude AI
+Prompt:
+"Buat program (Java & Python) menggunakan struktur data BST dengan fitur program terdiri dari: tambah data, cari data, hapus data, dan traversal (inorder, preorder, postorder)"
+
+*kode tersebut terdapat modifikasi dari saya sendiri
