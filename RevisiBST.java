@@ -209,7 +209,7 @@ public class BST {
                     System.out.print("  ID   : "); bst.hapusData(sc.nextInt()); break;
                 case 4:
                     bst.traversal(); break;
-                case 0:
+                case 5:
                     run = false;
                     System.out.println("  Program selesai."); break;
                 default:
