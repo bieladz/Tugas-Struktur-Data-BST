@@ -185,8 +185,7 @@ def main():
         print("3. Hapus Data")
         print("4. Traversal")
         print("5. Keluar")
-        pilihan = input("Pilihan: ")
-        return pilihan.strip()
+        pilihan = input("Pilihan: ").strip()
 
         if pilihan == "1":
             try:
